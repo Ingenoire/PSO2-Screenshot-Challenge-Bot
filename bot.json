@@ -1,6 +1,8 @@
 {
 	"origin": [
-		"PSO2 Screenshot Challenge! Code: Emote! Take a picture using 1 of the following emotes:\\n #other_emotes# \\n #fun_emotes# (from FUN Scratch / Shop)\\n #default_emotes# (default)"
+		"\\#PSO2NGS_SS Emote Challenge: NGS Emotes! Take a picture using one of the following emotes:\n #ngs_emotes# \n#ngs_emotes# \n #default_emotes# (default)",
+		"\\#PSO2NGS_SS Emote Challenge! Try some Emotes! Take a picture using one of the following emotes:\n#ngs_emotes# \n#fun_emotes# (from FUN) \n#default_emotes# (default)",
+		"\\#PSO2NGS_SS Emote Challenge: FUN Emotes! Take a picture using one of the following emotes:\n#fun_emotes# (from FUN) \n#fun_emotes# (from FUN) \n#default_emotes# (default)"
 	],
 	"fun_emotes": [
 		"01: \"Leave it to me!\"",
@@ -108,7 +110,7 @@
 		"Dance 1",
 		"Dance 2"
 	],
-	"other_emotes": [
+	"ngs_emotes": [
 		"406: Don Halo",
 		"691: Wand/Harmonizer",
 		"692: Oden Stew",
