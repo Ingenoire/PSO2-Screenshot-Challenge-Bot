@@ -1,8 +1,8 @@
 {
 	"origin": [
-		"\\#PSO2NGS_SS Emote Challenge: NGS Emotes! Take a picture using one of the following emotes:\n #ngs_emotes# \n#ngs_emotes# \n #default_emotes# (default)",
-		"\\#PSO2NGS_SS Emote Challenge! Try some Emotes! Take a picture using one of the following emotes:\n#ngs_emotes# \n#fun_emotes# (from FUN) \n#default_emotes# (default)",
-		"\\#PSO2NGS_SS Emote Challenge: FUN Emotes! Take a picture using one of the following emotes:\n#fun_emotes# (from FUN) \n#fun_emotes# (from FUN) \n#default_emotes# (default)"
+		"\\#PSO2NGS_SS Emote Challenge: NGS Emotes! Take a picture using one of the following emotes #extra_trials#:\n --- #ngs_emotes#\n --- #ngs_emotes#\n --- #default_emotes# (default)",
+		"\\#PSO2NGS_SS Emote Challenge! Try some Emotes! Take a picture using one of the following emotes #extra_trials#:\n --- #ngs_emotes#\n --- #fun_emotes# (from FUN)\n --- #default_emotes# (default)",
+		"\\#PSO2NGS_SS Emote Challenge: FUN Emotes! Take a picture using one of the following emotes #extra_trials#:\n --- #fun_emotes# (from FUN)\n --- #fun_emotes# (from FUN)\n --- #default_emotes# (default)"
 	],
 	"fun_emotes": [
 		"01: \"Leave it to me!\"",
@@ -259,5 +259,44 @@
 		"871: Buddy Pose",
 		"872: Spot Light",
 		"876: Play Violin"
+	],
+	"extra_trials": [
+		"while using a PSO2 Outfit",
+		"while using an NGS outfit",
+		"with the eyes out of frame",
+		"without using a bikini",
+		"without ballooned bosom",
+		"during night-time",
+		"with ballooned bosom (if possible)",
+		"without accessories",
+		"using an alt character (if possible)",
+		"from your backside",
+		"in a PSO2 Block (if possible)",
+		"in NGS",
+		"with an enemy in the picture",
+		"with a stranger in the picture",
+		"with an NPC in the picture",
+		"with a friend in the picture",
+		"with a bikini (if possible)",
+		"during a thunderstorm",
+		"with your angry face (/face3 s0)",
+		"with your sad face (/face4 s0)",
+		"with your suspicious face (/face5 s0)",
+		"with your eyes closed (/face6 s0)",
+		"with a new look",
+		"and change your hairstyle",
+		"with a cut-in on screen (ex: /ci1 1)",
+		"using the default hand pose",
+		"in your usual outfit",
+		"as a portrait shot",
+		"and smile for the camera",
+		"using the male version of the emote (/mla)",
+		"using the female version of the emote (/fla)",
+		"using the opposite version of the emote (/cla)",
+		"without using \"/ce on\" to look at the camera",
+		"without shaders or premium lights",
+		"and cosplay a character",
+		"with scenery in the background",
+		"and have fun"
 	]
 }
