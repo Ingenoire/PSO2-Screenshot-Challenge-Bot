@@ -1,8 +1,8 @@
 {
 	"origin": [
-		"\\#PSO2NGS_SS Emote Challenge! Take a picture using one of the following emotes:\n --- #ngs_emotes#\n --- #ngs_emotes#\n --- #default_emotes# (default)\n EXTRA CHALLENGE: #extra_trials#...",
-		"\\#PSO2NGS_SS Emote Challenge! Take a picture using one of the following emotes:\n --- #ngs_emotes#\n --- #fun_emotes# (from FUN)\n --- #default_emotes# (default)\n EXTRA CHALLENGE: #extra_trials#...",
-		"\\#PSO2NGS_SS Emote Challenge! Take a picture using one of the following emotes:\n --- #fun_emotes# (from FUN)\n --- #fun_emotes# (from FUN)\n --- #default_emotes# (default)\n EXTRA CHALLENGE: #extra_trials#..."
+		"\\#PSO2NGS_SS Emote Challenge! Take a picture using one of the following emotes:\n --- #ngs_emotes#\n --- #ngs_emotes#\n --- #default_emotes# (default)\n EXTRA THEME: #theme#\n EXTRA CHALLENGE: #extra_trials#!",
+		"\\#PSO2NGS_SS Emote Challenge! Take a picture using one of the following emotes:\n --- #ngs_emotes#\n --- #fun_emotes# (from FUN)\n --- #default_emotes# (default)\n EXTRA THEME: #theme#\n EXTRA CHALLENGE: #extra_trials#!",
+		"\\#PSO2NGS_SS Emote Challenge! Take a picture using one of the following emotes:\n --- #fun_emotes# (from FUN)\n --- #fun_emotes# (from FUN)\n --- #default_emotes# (default)\n EXTRA THEME: #theme#\n EXTRA CHALLENGE: #extra_trials#!"
 	],
 	"fun_emotes": [
 		"01: \"Leave it to me!\"",
@@ -297,5 +297,6 @@
 		"Don't use shaders or premium lights",
 		"Try cosplaying a character",
 		"Show scenery in the background"
-	]
+	],
+	"theme": ["Christmas", "Pirate", "Nature", "Heavenly", "Summer", "Rock Star", "Winter", "Fire", "Crystal", "Royalty", "Spring", "Underwater", "Snow", "Magical Girl", "Mythological", "Robot", "Cat", "Military", "Chocolate", "Halloween", "Pinup", "Fear", "Neon", "Holiday", "Lace", "Garden", "Sparkle", "Cherry Blossom", "Carnival", "Candy", "Tropical", "Warrior", "Festival", "Fast Food", "Patriot", "Demonic", "Autumn", "Space", "Working Girl", "Silhouette", "Peasant", "Historical", "Fruity", "Superhero", "Rainbow", "Dance", "Mocha", "Plaid", "Monochrome", "School", "Fantasy", "Leather", "Colour", "Futuristic", "Bad Girl", "Hearts", "Illusion", "Luxury", "Spy", "Undead", "Desert", "Love", "Grand Finale", "Business", "Casual", "Evening", "Wedding", "Gothic", "Millitary", "Urban", "Modest", "Nerd", "French", "Sports", "Swimwear", "Wild West"]
 }
