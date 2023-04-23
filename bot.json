@@ -1,17 +1,34 @@
 {
 	"origin": [
-		"\\#PSO2NGS Emote Challenge! Take a picture using one of these emotes:\n --- #ngs_emotes#\n --- #ngs_emotes#\n --- #ngs_emotes#\n EXTRA THEME: #theme#\n EXTRA CHALLENGE: #extra_trials#!",
-		"\\#PSO2NGS Emote Challenge! Take a picture using one of these emotes:\n --- #ngs_emotes#\n --- #fun_emotes#\n --- #default_emotes#\n EXTRA THEME: #theme#\n EXTRA CHALLENGE: #extra_trials#!",
-		"\\#PSO2NGS Emote Challenge! Take a picture using one of these emotes:\n --- #any_emotes#\n --- #ngs_emotes#\n --- #any_emotes#\n EXTRA THEME: #theme#\n EXTRA CHALLENGE: #extra_trials#!",
-		"\\#PSO2NGS Emote Challenge! Take a picture using one of these emotes:\n --- #fun_emotes#\n --- #ngs_emotes#\n --- #any_emotes#\n EXTRA THEME: #theme#\n EXTRA CHALLENGE: #extra_trials#!",
-		"\\#PSO2NGS Emote Challenge! Take a picture using one of these emotes:\n --- #any_emotes#\n --- #any_emotes#\n --- #dances#\n EXTRA THEME: #theme#\n EXTRA CHALLENGE: #extra_trials#!",
-		"\\#PSO2NGS Emote Challenge! Take a picture using one of these emotes:\n --- #any_emotes#\n --- #any_emotes#\n --- #any_emotes#\n EXTRA THEME: #theme#\n EXTRA CHALLENGE: #extra_trials#!",
-		"\\#PSO2NGS Emote Challenge! Take a picture using one of these emotes:\n --- #any_emotes#\n --- #fun_emotes#\n --- #any_emotes#\n EXTRA THEME: #theme#\n EXTRA CHALLENGE: #extra_trials#!",
-		"\\#PSO2NGS Emote Challenge! Take a picture using one of these emotes:\n --- #ngs_emotes#\n --- #dances#\n --- #any_emotes#\n EXTRA THEME: #theme#\n EXTRA CHALLENGE: #extra_trials#!",
-		"\\#PSO2NGS Emote Challenge! Take a picture using one of these emotes:\n --- #ngs_emotes#\n --- #dances#\n --- #default_emotes#\n EXTRA THEME: #theme#\n EXTRA CHALLENGE: #extra_trials#!",
-		"\\#PSO2NGS Emote Challenge SPECIAL! Dance-off! Take a pic using one of these emotes:\n --- #dances#\n --- #dances#\n --- #dances#\n EXTRA THEME: #theme#\n EXTRA CHALLENGE: #extra_trials#!",
-		"\\#PSO2NGS Emote Challenge! Take a picture using one of these emotes:\n --- #fun_emotes#\n --- #fun_emotes#\n --- #fun_emotes#\n EXTRA THEME: #theme#\n EXTRA CHALLENGE: #extra_trials#!"
+		"\\#PSO2NGS Screenshot Challenge! Take a picture using one of these emotes:\n --- #ngs_emotes#\n --- #ngs_emotes#\n --- #ngs_emotes#\n EXTRA THEME: #theme#\n EXTRA CHALLENGE: #extra_trials#!",
+		"\\#PSO2NGS Screenshot Challenge! Emote! Take a picture using one of these emotes:\n --- #ngs_emotes#\n --- #fun_emotes#\n --- #default_emotes#\n EXTRA THEME: #theme#\n EXTRA CHALLENGE: #extra_trials#!",
+		"\\#PSO2NGS Screenshot Challenge! Emote! Take a picture using one of these emotes:\n --- #any_emotes#\n --- #ngs_emotes#\n --- #any_emotes#\n EXTRA THEME: #theme#\n EXTRA CHALLENGE: #extra_trials#!",
+		"\\#PSO2NGS Screenshot Challenge! Emote! Take a picture using one of these emotes:\n --- #fun_emotes#\n --- #ngs_emotes#\n --- #any_emotes#\n EXTRA THEME: #theme#\n EXTRA CHALLENGE: #extra_trials#!",
+		"\\#PSO2NGS Screenshot Challenge! Emote! Take a picture using one of these emotes:\n --- #any_emotes#\n --- #any_emotes#\n --- #dances#\n EXTRA THEME: #theme#\n EXTRA CHALLENGE: #extra_trials#!",
+		"\\#PSO2NGS Screenshot Challenge! Emote! Take a picture using one of these emotes:\n --- #any_emotes#\n --- #fun_emotes#\n --- #any_emotes#\n EXTRA THEME: #theme#\n EXTRA CHALLENGE: #extra_trials#!",
+		"\\#PSO2NGS Screenshot Challenge! Emote! Take a picture using one of these emotes:\n --- #ngs_emotes#\n --- #dances#\n --- #any_emotes#\n EXTRA THEME: #theme#\n EXTRA CHALLENGE: #extra_trials#!",
+		"\\#PSO2NGS Screenshot Challenge! Emote! Take a picture using one of these emotes:\n --- #ngs_emotes#\n --- #dances#\n --- #default_emotes#\n EXTRA THEME: #theme#\n EXTRA CHALLENGE: #extra_trials#!",
+		"\\#PSO2NGS Screenshot Challenge! Dance! Take a pic using one of these dances:\n --- #dances#\n --- #dances#\n --- #dances#\n EXTRA THEME: #theme#\n EXTRA CHALLENGE: #extra_trials#!",
+		"\\#PSO2NGS Screenshot Challenge! Emote! Take a picture using one of these emotes:\n --- #fun_emotes#\n --- #fun_emotes#\n --- #fun_emotes#\n EXTRA THEME: #theme#\n EXTRA CHALLENGE: #extra_trials#!",
+      "\\#PSO2NGS Screenshot Challenge! React! #react_challenges#\n\n EXTRA THEME: #theme#\n EXTRA CHALLENGE: #extra_trials#!",
+		"\\#PSO2NGS Screenshot Challenge! Location! Visit this location and take a picture:\n\n --- Location #locations#\n\n EXTRA THEME: #theme#\n EXTRA CHALLENGE: #extra_trials#!",
+      "\\#PSO2NGS Screenshot Challenge! React! #react_challenges#\n\n EXTRA THEME: #theme#\n EXTRA CHALLENGE: #extra_trials#!"
 	],
+    "react_challenges": [
+        "N°1: Strange Gift (by @ingenoireP)\n\n --- Someone approaches you with a strange power orb, and wants to give it to you. Friend or Foe?",
+        "N°2: Nekocam (by @ingenoireP)\n\n --- A friend falls over, but your other friend begins taking pictures! Join in or reprimand?",
+        "N°3: Reverse Uno (by @ingenoireP)\n\n --- Yvonne plays the Uno Reverse card on your last screenshot! What happens?",
+        "N°4: Shopping Buddies (by @ingenoireP)\n\n --- You can tell this player shopped a lot. Help them out, glare, or...?",
+        "N°5: New Gang Member (by @ingenoireP)\n\n --- \"Wait, so you're part of the gang now? Uhh...\"\n(Seems like she's not too sure about you. Why's that? Your looks?)",
+        "N°6: Poloro Encounter (by @ingenoireP)\n\n --- A Flamm Poloro finds something... or someone, on the ground. Who, or what?"
+    ],
+    "locations": [
+        "N°1: South Aelio's Hidden Falls (by @ingenoireP)\n Enjoy the prestine waters that nobody sees, bordering Mt Magnus!",
+        "N°2: South Aelio's Secret Lake (by @ingenoireP)\n This secret lake is an ideal stage for an aquatic concert!",
+        "N°3: Mountain facing the Ocean (by @ingenoireP)\n With a clear view of Kvaris, it also overlooks the great ocean!",
+        "N°4: High Altitude Camping (by @ingenoireP)\n Some people like camping up here.",
+        "N°5: Belugana Ruins Shores (by @ingenoireP)\n Nobody has visited these shores. Why not take a look in a Photo Room?"
+    ],
 	"fun_emotes": [
 		"01: \"Leave it to me!\"",
 		"02: Deny",
@@ -29,12 +46,10 @@
 		"30: Kudos",
 		"35: Raise Overhead",
 		"39: Swing Light 1",
-		"39: Swing Light 1 (Rave 1)",
 		"44: Pose 7",
 		"45: Pose 8",
 		"48: Stretch",
 		"49: Charm",
-		"56: Man, it's hot.",
 		"56: Man, it's hot.",
 		"62: \"Hey there!\"",
 		"64: Warming Up",
@@ -312,6 +327,8 @@
 		"Ruin the theme",
 		"Dress wholesomely",
 		"Have a weapon sheathed on your back",
+        "Ride on the back of a large TAME",
+        "Remove all facepaints",
 		"Have your mag visible"
 	],
 	"theme": [
