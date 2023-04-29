@@ -1,33 +1,45 @@
 {
 	"origin": [
-		"\\#PSO2NGS Screenshot Challenge! Take a picture using one of these emotes:\n --- #ngs_emotes#\n --- #ngs_emotes#\n --- #ngs_emotes#\n EXTRA THEME: #theme#\n EXTRA CHALLENGE: #extra_trials#!",
-		"\\#PSO2NGS Screenshot Challenge! Emote! Take a picture using one of these emotes:\n --- #ngs_emotes#\n --- #fun_emotes#\n --- #default_emotes#\n EXTRA THEME: #theme#\n EXTRA CHALLENGE: #extra_trials#!",
-		"\\#PSO2NGS Screenshot Challenge! Emote! Take a picture using one of these emotes:\n --- #any_emotes#\n --- #ngs_emotes#\n --- #any_emotes#\n EXTRA THEME: #theme#\n EXTRA CHALLENGE: #extra_trials#!",
-		"\\#PSO2NGS Screenshot Challenge! Emote! Take a picture using one of these emotes:\n --- #fun_emotes#\n --- #ngs_emotes#\n --- #any_emotes#\n EXTRA THEME: #theme#\n EXTRA CHALLENGE: #extra_trials#!",
-		"\\#PSO2NGS Screenshot Challenge! Emote! Take a picture using one of these emotes:\n --- #any_emotes#\n --- #any_emotes#\n --- #dances#\n EXTRA THEME: #theme#\n EXTRA CHALLENGE: #extra_trials#!",
-		"\\#PSO2NGS Screenshot Challenge! Emote! Take a picture using one of these emotes:\n --- #any_emotes#\n --- #fun_emotes#\n --- #any_emotes#\n EXTRA THEME: #theme#\n EXTRA CHALLENGE: #extra_trials#!",
-		"\\#PSO2NGS Screenshot Challenge! Emote! Take a picture using one of these emotes:\n --- #ngs_emotes#\n --- #dances#\n --- #any_emotes#\n EXTRA THEME: #theme#\n EXTRA CHALLENGE: #extra_trials#!",
-		"\\#PSO2NGS Screenshot Challenge! Emote! Take a picture using one of these emotes:\n --- #ngs_emotes#\n --- #dances#\n --- #default_emotes#\n EXTRA THEME: #theme#\n EXTRA CHALLENGE: #extra_trials#!",
-		"\\#PSO2NGS Screenshot Challenge! Dance! Take a pic using one of these dances:\n --- #dances#\n --- #dances#\n --- #dances#\n EXTRA THEME: #theme#\n EXTRA CHALLENGE: #extra_trials#!",
-		"\\#PSO2NGS Screenshot Challenge! Emote! Take a picture using one of these emotes:\n --- #fun_emotes#\n --- #fun_emotes#\n --- #fun_emotes#\n EXTRA THEME: #theme#\n EXTRA CHALLENGE: #extra_trials#!",
-      "\\#PSO2NGS Screenshot Challenge! React! #react_challenges#\n\n EXTRA THEME: #theme#\n EXTRA CHALLENGE: #extra_trials#!",
-		"\\#PSO2NGS Screenshot Challenge! Location! Visit this location and take a picture:\n\n --- Location #locations#\n\n EXTRA THEME: #theme#\n EXTRA CHALLENGE: #extra_trials#!",
-      "\\#PSO2NGS Screenshot Challenge! React! #react_challenges#\n\n EXTRA THEME: #theme#\n EXTRA CHALLENGE: #extra_trials#!"
+		"\\#PSO2NGS_SS Emote Challenge! Take a picture using one of these emotes:\n --- #ngs_emotes#\n --- #ngs_emotes#\n --- #ngs_emotes#\n EXTRA THEMES: #theme# | #theme#\n EXTRA CHALLENGE: #extra_trials#!",
+      
+		"\\#PSO2NGS_SS Emote Challenge! Take a picture using one of these emotes:\n --- #ngs_emotes#\n --- #fun_emotes#\n --- #default_emotes#\n EXTRA THEMES: #theme# | #theme#\n EXTRA CHALLENGE: #extra_trials#!",
+      
+		"\\#PSO2NGS_SS Emote Challenge! Take a picture using one of these emotes:\n --- #any_emotes#\n --- #ngs_emotes#\n --- #any_emotes#\n EXTRA THEMES: #theme# | #theme#\n EXTRA CHALLENGE: #extra_trials#!",
+      
+		"\\#PSO2NGS_SS Emote Challenge! Take a picture using one of these emotes:\n --- #fun_emotes#\n --- #ngs_emotes#\n --- #any_emotes#\n EXTRA THEMES: #theme# | #theme#\n EXTRA CHALLENGE: #extra_trials#!",
+      
+		"\\#PSO2NGS_SS Emote Challenge! Take a picture using one of these emotes:\n --- #any_emotes#\n --- #any_emotes#\n --- #dances#\n EXTRA THEMES: #theme# | #theme#\n EXTRA CHALLENGE: #extra_trials#!",
+      
+		"\\#PSO2NGS_SS Emote Challenge! Take a picture using one of these emotes:\n --- #any_emotes#\n --- #fun_emotes#\n --- #any_emotes#\n EXTRA THEMES: #theme# | #theme#\n EXTRA CHALLENGE: #extra_trials#!",
+      
+		"\\#PSO2NGS_SS Emote Challenge! Take a picture using one of these emotes:\n --- #ngs_emotes#\n --- #dances#\n --- #any_emotes#\n EXTRA THEMES: #theme# | #theme#\n EXTRA CHALLENGE: #extra_trials#!",
+      
+		"\\#PSO2NGS_SS Emote Challenge! Take a picture using one of these emotes:\n --- #ngs_emotes#\n --- #dances#\n --- #default_emotes#\n EXTRA THEMES: #theme# | #theme#\n EXTRA CHALLENGE: #extra_trials#!",
+      
+		"\\#PSO2NGS_SS Dance Challenge! Take a pic using one of these dances:\n --- #dances#\n --- #dances#\n --- #dances#\n --- #dances#\n --- #dances#\n EXTRA THEMES: #theme# | #theme#\n EXTRA CHALLENGE: #extra_trials#!",
+      
+		"\\#PSO2NGS_SS Emote Challenge! Take a picture using one of these emotes:\n --- #fun_emotes#\n --- #fun_emotes#\n --- #fun_emotes#\n EXTRA THEMES: #theme# | #theme#\n EXTRA CHALLENGE: #extra_trials#!",
+      
+      "\\#PSO2NGS_SS React Challenge! #react_challenges#\n\n EXTRA THEMES: #theme# | #theme#\n EXTRA CHALLENGE: #extra_trials#!",
+      
+		"\\#PSO2NGS_SS Location Challenge!\n\n Take a picture at #locations#\n\n EXTRA THEMES: #theme# | #theme#\n EXTRA CHALLENGE: #extra_trials#!",
+      
+      "\\#PSO2NGS Screenshot Challenge! React! #react_challenges#\n\n EXTRA THEMES: #theme# | #theme#\n EXTRA CHALLENGE: #extra_trials#!"
 	],
     "react_challenges": [
         "N°1: Strange Gift (by @ingenoireP)\n\n --- Someone approaches you with a strange power orb, and wants to give it to you. Friend or Foe?",
-        "N°2: Nekocam (by @ingenoireP)\n\n --- A friend falls over, but your other friend begins taking pictures! Join in or reprimand?",
+        "N°2: Nekocam (by @ingenoireP)\n\n --- You fall over! But your friend has begun taking pictures?!",
         "N°3: Reverse Uno (by @ingenoireP)\n\n --- Yvonne plays the Uno Reverse card on your last screenshot! What happens?",
         "N°4: Shopping Buddies (by @ingenoireP)\n\n --- You can tell this player shopped a lot. Help them out, glare, or...?",
         "N°5: New Gang Member (by @ingenoireP)\n\n --- \"Wait, so you're part of the gang now? Uhh...\"\n(Seems like she's not too sure about you. Why's that? Your looks?)",
         "N°6: Poloro Encounter (by @ingenoireP)\n\n --- A Flamm Poloro finds something... or someone, on the ground. Who, or what?"
     ],
     "locations": [
-        "N°1: South Aelio's Hidden Falls (by @ingenoireP)\n Enjoy the prestine waters that nobody sees, bordering Mt Magnus!",
-        "N°2: South Aelio's Secret Lake (by @ingenoireP)\n This secret lake is an ideal stage for an aquatic concert!",
-        "N°3: Mountain facing the Ocean (by @ingenoireP)\n With a clear view of Kvaris, it also overlooks the great ocean!",
-        "N°4: High Altitude Camping (by @ingenoireP)\n Some people like camping up here.",
-        "N°5: Belugana Ruins Shores (by @ingenoireP)\n Nobody has visited these shores. Why not take a look in a Photo Room?"
+        "South Aelio's Hidden Falls (N°1 by @ingenoireP)\n\n Enjoy the prestine waters that nobody sees, bordering Mt Magnus!",
+        "South Aelio's Secret Lake (N°2 by @ingenoireP)\n\n This secret lake is an ideal stage for an aquatic concert!",
+        "Mountain facing the Ocean (N°3 by @ingenoireP)\n\n With a clear view of Kvaris, it also overlooks the great ocean!",
+        "High Altitude Camping (N°4 by @ingenoireP)\n\n Some people like camping up here.",
+        "Belugana Ruins Shores (N°5 by @ingenoireP)\n\n Nobody has visited these shores. Why not take a look in a Photo Room?"
     ],
 	"fun_emotes": [
 		"01: \"Leave it to me!\"",
@@ -216,8 +228,7 @@
 		"793: Tea Time",
 		"794: At Your Service/Relax",
 		"796: Yamada the Flash Pose",
-		"797: Nadereh Concert",
-		"798: Nadereh Concert 2",
+		"797/798/809: Nadereh Concert/2/3",
 		"799: Dance 66",
 		"800: Aerial Battle",
 		"801: Heart Pose 3",
@@ -226,7 +237,6 @@
 		"804: Bed 4",
 		"805/806/807: Play With Bird/2/3",
 		"808: Hitsugi Pose +",
-		"809: Nadereh Concert 3",
 		"810: Ready Firearm +",
 		"811: Scroll",
 		"812: Explorer Pose",
@@ -268,10 +278,9 @@
 		"862: Receive a Lap Pillow",
 		"863: Aerial Battle 2",
 		"864: Cash Money",
-		"865: Preparing for Battle 2",
+		"865/868: Preparing for Battle 2/3",
 		"866: Animal Rides",
 		"867: Meal",
-		"868: Preparing for Battle 3",
 		"869: Throne",
 		"870: Weapon Maintenance 2",
 		"871: Buddy Pose",
@@ -280,13 +289,15 @@
 		"874: Floating Leg Crossing",
 		"873: Art Pose",
 		"891: Giving Orders",
-		"880: Aerial Battle 3",
-		"879: Slayer Pose"
+		"879: Slayer Pose",
+        "880: Aerial Battle 3",
+        "883: Sit on Air 2",
+        "887: Sandcastle"
 	],
 	"extra_trials": [
 		"Wear a PSO2 Outfit",
 		"Wear an NGS Outfit",
-		"Have the eyes out of frame",
+		"Obscure the eyes",
 		"Wear a bikini",
 		"Don't use ballooned bosom",
 		"Take a night-time picture",
@@ -329,7 +340,10 @@
 		"Have a weapon sheathed on your back",
         "Ride on the back of a large TAME",
         "Remove all facepaints",
-		"Have your mag visible"
+		"Have your mag visible",
+		"After you take a pic, draw it in MS Paint",
+		"Remix your usual outfit to the theme",
+        "Submit one picture only"
 	],
 	"theme": [
 		"Christmas",
@@ -417,6 +431,9 @@
 		"Injured",
 		"Meme",
 		"Yvonne",
+        "ALTERS",
+        "DOLLS",
+        "FORMERS",
 		"NPC",
 		"Deity",
 		"Bedtime",
@@ -472,8 +489,7 @@
 		"144: Party Popper",
 		"160: Somersault",
 		"162: Kick 2",
-		"165: Ready Stance 1",
-		"166: Ready Stance 2",
+		"165/166: Ready Stance 1/2",
 		"167: Space Jump (Super Jump)",
 		"177: Blow Bubbles",
 		"178: Enemy 2",
@@ -551,9 +567,7 @@
 		"310: Hagith Femt",
 		"311: Flying Base",
 		"312: Look Up",
-		"313: Mother Corps 1",
-		"314: Mother Corps 2",
-		"315: Mother Corps 3",
+		"313/314/315: Mother Corps 1/2/3",
 		"316: Repair",
 		"318: Swim",
 		"319: Surf",
@@ -675,12 +689,9 @@
 		"556: Sit 7",
 		"559: Fire Away",
 		"560: Throw Dice",
-		"561: Matoi Pose 1",
-		"562: Matoi Pose 2",
-		"563: Matoi Pose 3",
+		"561/562/563: Matoi Pose 1/2/3",
 		"565: Talis Pose",
-		"567: Idola Chara Pose 1",
-		"568: Idola Chara Pose 2",
+		"567/568: Idola Chara Pose 1/2",
 		"571: Sword Pose",
 		"572: Poke Poke",
 		"573/574/575: Sukunahime Pose 1/2/3",
@@ -721,8 +732,7 @@
 		"630: Controlled Slide",
 		"634: Jet Boots Pose",
 		"635: Sparkler",
-		"637: Shiva Pose 1",
-		"638: Shiva Pose 2",
+		"637/638: Shiva Pose 1/2",
 		"639: Varuna Pose",
 		"641: Crouch 2",
 		"642: Sword/Partisan",
@@ -749,16 +759,11 @@
 		"672: Cross Arms 2",
 		"673: Rodeo Pose 1",
 		"675: Twin Daggers/Knuckles",
-		"675: Twin Daggers/Knuckles",
 		"677: UFO CATCHER®",
 		"678: Grill Time",
-		"679: Stratos Pose 2",
-		"680: Stratos Pose 3",
-		"681: Kyokuya Pose 1",
-		"682: Kyokuya Pose 2",
-		"683: Lukot Pose 1",
-		"684: Lukot Pose 2",
-		"685: Lukot Pose 3",
+		"679/680: Stratos Pose 2/3",
+		"681/682: Kyokuya Pose 1/2",
+		"683/684/685: Lukot Pose 1/2/3",
 		"686: Idola Matoi Pose",
 		"687: Besties Pose",
 		"688: Elemental Pose - Fire & Ice",
@@ -850,6 +855,7 @@
 		"799: Dance 66",
 		"802: Dance 67",
 		"814: Dance 68",
-		"819: Dance 69"
+		"819: Dance 69",
+		"797/798/809: Nadereh Concert/2/3"
 	]
 }
