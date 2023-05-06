@@ -1,24 +1,24 @@
 {
 	"origin": [
-		"\\#PSO2NGS_SS Emote Challenge! Take a picture using one of these emotes:\n --- #ngs_emotes#\n --- #ngs_emotes#\n --- #ngs_emotes#\n EXTRA THEMES: #theme# | #theme#\n EXTRA CHALLENGE: #extra_trials#!",
+		"\\#PSO2NGS_SS Emote Challenge! Take a picture using one of these emotes:\n --- #ngs_emotes#\n --- #ngs_emotes#\n --- #ngs_emotes#\n --- #any_emotes#\n EXTRA THEMES: #theme# | #theme#\n EXTRA CHALLENGE: #extra_trials#!",
       
-		"\\#PSO2NGS_SS Emote Challenge! Take a picture using one of these emotes:\n --- #ngs_emotes#\n --- #fun_emotes#\n --- #default_emotes#\n EXTRA THEMES: #theme# | #theme#\n EXTRA CHALLENGE: #extra_trials#!",
+		"\\#PSO2NGS_SS Emote Challenge! Take a picture using one of these emotes:\n --- #ngs_emotes#\n --- #fun_emotes#\n --- #default_emotes#\n --- #any_emotes#\n EXTRA THEMES: #theme# | #theme#\n EXTRA CHALLENGE: #extra_trials#!",
       
-		"\\#PSO2NGS_SS Emote Challenge! Take a picture using one of these emotes:\n --- #any_emotes#\n --- #ngs_emotes#\n --- #any_emotes#\n EXTRA THEMES: #theme# | #theme#\n EXTRA CHALLENGE: #extra_trials#!",
+		"\\#PSO2NGS_SS Emote Challenge! Take a picture using one of these emotes:\n --- #any_emotes#\n --- #ngs_emotes#\n --- #any_emotes#\n --- #any_emotes#\n EXTRA THEMES: #theme# | #theme#\n EXTRA CHALLENGE: #extra_trials#!",
       
-		"\\#PSO2NGS_SS Emote Challenge! Take a picture using one of these emotes:\n --- #fun_emotes#\n --- #ngs_emotes#\n --- #any_emotes#\n EXTRA THEMES: #theme# | #theme#\n EXTRA CHALLENGE: #extra_trials#!",
+		"\\#PSO2NGS_SS Emote Challenge! Take a picture using one of these emotes:\n --- #fun_emotes#\n --- #ngs_emotes#\n --- #any_emotes#\n --- #any_emotes#\n EXTRA THEMES: #theme# | #theme#\n EXTRA CHALLENGE: #extra_trials#!",
       
-		"\\#PSO2NGS_SS Emote Challenge! Take a picture using one of these emotes:\n --- #any_emotes#\n --- #any_emotes#\n --- #dances#\n EXTRA THEMES: #theme# | #theme#\n EXTRA CHALLENGE: #extra_trials#!",
+		"\\#PSO2NGS_SS Emote Challenge! Take a picture using one of these emotes:\n --- #any_emotes#\n --- #any_emotes#\n --- #dances#\n --- #any_emotes#\n EXTRA THEMES: #theme# | #theme#\n EXTRA CHALLENGE: #extra_trials#!",
       
-		"\\#PSO2NGS_SS Emote Challenge! Take a picture using one of these emotes:\n --- #any_emotes#\n --- #fun_emotes#\n --- #any_emotes#\n EXTRA THEMES: #theme# | #theme#\n EXTRA CHALLENGE: #extra_trials#!",
+		"\\#PSO2NGS_SS Emote Challenge! Take a picture using one of these emotes:\n --- #any_emotes#\n --- #fun_emotes#\n --- #any_emotes#\n --- #any_emotes#\n EXTRA THEMES: #theme# | #theme#\n EXTRA CHALLENGE: #extra_trials#!",
       
-		"\\#PSO2NGS_SS Emote Challenge! Take a picture using one of these emotes:\n --- #ngs_emotes#\n --- #dances#\n --- #any_emotes#\n EXTRA THEMES: #theme# | #theme#\n EXTRA CHALLENGE: #extra_trials#!",
+		"\\#PSO2NGS_SS Emote Challenge! Take a picture using one of these emotes:\n --- #ngs_emotes#\n --- #dances#\n --- #any_emotes#\n --- #any_emotes#\n EXTRA THEMES: #theme# | #theme#\n EXTRA CHALLENGE: #extra_trials#!",
       
-		"\\#PSO2NGS_SS Emote Challenge! Take a picture using one of these emotes:\n --- #ngs_emotes#\n --- #dances#\n --- #default_emotes#\n EXTRA THEMES: #theme# | #theme#\n EXTRA CHALLENGE: #extra_trials#!",
+		"\\#PSO2NGS_SS Emote Challenge! Take a picture using one of these emotes:\n --- #ngs_emotes#\n --- #dances#\n --- #default_emotes#\n --- #any_emotes#\n EXTRA THEMES: #theme# | #theme#\n EXTRA CHALLENGE: #extra_trials#!",
       
 		"\\#PSO2NGS_SS Dance Challenge! Take a pic using one of these dances:\n --- #dances#\n --- #dances#\n --- #dances#\n --- #dances#\n --- #dances#\n EXTRA THEMES: #theme# | #theme#\n EXTRA CHALLENGE: #extra_trials#!",
       
-		"\\#PSO2NGS_SS Emote Challenge! Take a picture using one of these emotes:\n --- #fun_emotes#\n --- #fun_emotes#\n --- #fun_emotes#\n EXTRA THEMES: #theme# | #theme#\n EXTRA CHALLENGE: #extra_trials#!",
+		"\\#PSO2NGS_SS Emote Challenge! Take a picture using one of these emotes:\n --- #fun_emotes#\n --- #fun_emotes#\n --- #fun_emotes#\n --- #any_emotes#\n EXTRA THEMES: #theme# | #theme#\n EXTRA CHALLENGE: #extra_trials#!",
       
       "\\#PSO2NGS_SS React Challenge! #react_challenges#\n\n EXTRA THEMES: #theme# | #theme#\n EXTRA CHALLENGE: #extra_trials#!",
       
@@ -27,7 +27,7 @@
       "\\#PSO2NGS Screenshot Challenge! React! #react_challenges#\n\n EXTRA THEMES: #theme# | #theme#\n EXTRA CHALLENGE: #extra_trials#!"
 	],
     "react_challenges": [
-        "N°1: Strange Gift (by @ingenoireP)\n\n --- Someone approaches you with a strange power orb, and wants to give it to you. Friend or Foe?",
+        "N°1: Strange Gift (by @ingenoireP)\n\n --- Someone gives you a strange power, and you accept it... wait, what's happening to you!?",
         "N°2: Nekocam (by @ingenoireP)\n\n --- You fall over! But your friend has begun taking pictures?!",
         "N°3: Reverse Uno (by @ingenoireP)\n\n --- Yvonne plays the Uno Reverse card on your last screenshot! What happens?",
         "N°4: Shopping Buddies (by @ingenoireP)\n\n --- You can tell this player shopped a lot. Help them out, glare, or...?",
@@ -160,7 +160,7 @@
 		"705: Relax 2",
 		"706: Little Finger Pose",
 		"707: Katana/Bow",
-		"709: Heart Pose",
+		"709/792/801: Heart Pose/2/3",
 		"710: Bang Bang Pose",
 		"711: Jumping Pose",
 		"713: \"Two\" Pose",
@@ -180,11 +180,9 @@
 		"743: Thank 4",
 		"744: Sit 8",
 		"745: Tremble",
-		"747: Crouch 3",
+		"747/770: Crouch 3/4",
 		"748: Rabbit Dance",
-		"749: Eat Ice Cream+",
-		"750: Eat Ice Cream 2",
-		"751: Eat Ice Cream 3",
+		"749/750/751: Eat Ice Cream+/2/3",
 		"752: Dance 61",
 		"753: Parasol",
 		"754: Summer Fun",
@@ -203,7 +201,6 @@
 		"767: Wait a Minute",
 		"768: Dance 63",
 		"769: Captured",
-		"770: Crouch 4",
 		"771: Sweet Potato",
 		"772: I Give Up",
 		"773: Bouncer Pose",
@@ -224,14 +221,12 @@
 		"789: Ice Hockey",
 		"790: Commemorative Photo",
 		"791: Dance 65",
-		"792: Heart Pose 2",
 		"793: Tea Time",
 		"794: At Your Service/Relax",
 		"796: Yamada the Flash Pose",
 		"797/798/809: Nadereh Concert/2/3",
 		"799: Dance 66",
-		"800: Aerial Battle",
-		"801: Heart Pose 3",
+		"800/863/880: Aerial Battle/2/3",
 		"802: Dance 67",
 		"803: Side-Scrolling Shooting",
 		"804: Bed 4",
@@ -240,7 +235,7 @@
 		"810: Ready Firearm +",
 		"811: Scroll",
 		"812: Explorer Pose",
-		"813: Sit on Air",
+		"813/883: Sit on Air/2",
 		"814: Dance 68",
 		"16: Ready Spear +",
 		"818: Sneaky",
@@ -276,7 +271,6 @@
 		"860: Rappy 'n' Me",
 		"861: Ready Spellbook +",
 		"862: Receive a Lap Pillow",
-		"863: Aerial Battle 2",
 		"864: Cash Money",
 		"865/868: Preparing for Battle 2/3",
 		"866: Animal Rides",
@@ -290,8 +284,6 @@
 		"873: Art Pose",
 		"891: Giving Orders",
 		"879: Slayer Pose",
-        "880: Aerial Battle 3",
-        "883: Sit on Air 2",
         "887: Sandcastle"
 	],
 	"extra_trials": [
@@ -385,6 +377,7 @@
 		"Autumn",
 		"Space",
 		"Working Girl",
+		"Alter Servant",
 		"Silhouette",
 		"Peasant",
 		"Historical",
@@ -423,6 +416,7 @@
 		"Swimwear",
 		"Wild West",
 		"Weaponoid",
+		"Emoji",
 		"American",
 		"Japanese",
 		"VTuber",
@@ -437,6 +431,10 @@
 		"NPC",
 		"Deity",
 		"Bedtime",
+		"Matoi",
+		"Apocalypse",
+		"Retro",
+		"Vaporwave",
 		"Towering Pillar of Hats",
 		"Shopping"
 	],
