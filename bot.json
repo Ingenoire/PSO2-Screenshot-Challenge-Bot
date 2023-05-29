@@ -33,7 +33,8 @@
         "N°4: Shopping Buddies (by @ingenoireP)\n\n --- You can tell this player shopped a lot. Help them out, glare, or...?",
         "N°5: New Gang Member (by @ingenoireP)\n\n --- \"Wait, so you're part of the gang now? Uhh...\"\n(Seems like she's not too sure about you. Why's that? Your looks?)",
         "N°6: Poloro Encounter (by @ingenoireP)\n\n --- A Flamm Poloro finds something... or someone, on the ground. Who, or what?",
-        "N°7: Class Incident (by @ingenoireP)\n\n --- Teacher spots you messing around under your desk: \"Hey, why don't you show the class what you've been doing under the desk?\""
+        "N°7: Class Incident (by @ingenoireP)\n\n --- Teacher spots you messing around under your desk: \"Hey, why don't you show the class what you've been doing under the desk?\"",
+        "N°7: Face the Demon King Rappy (by @DripRappy)\n\n --- Stand your ground, and face the Demon King Rappy head on with all your might! Or do you cower, run, submit?!"
     ],
     "locations": [
         "South Aelio's Hidden Falls (N°1 by @ingenoireP)\n\n Enjoy the prestine waters that nobody sees, bordering Mt Magnus!",
@@ -42,7 +43,10 @@
         "High Altitude Camping (N°4 by @ingenoireP)\n\n Some people like camping up here.",
         "Belugana Ruins Shores (N°5 by @ingenoireP)\n\n Nobody has visited these shores. Why not take a look in a Photo Room?",
         "Alnothe Shrine (N°6 by @ingenoireP)\n\n Nadereh's ceremonial shrine. Stop farming N-Meseta and pay a visit!",
-        "Close-up Borealis (N°7 by @ingenoireP)\n\n Set the Photo Room to Aurora and come at night for this strange anomaly!"
+        "Close-up Borealis (N°7 by @ingenoireP)\n\n Set the Photo Room to Aurora and come at night for this strange anomaly!",
+        "North Retem's Abandonned Mine (N°8 by @Wren_5_Point_0)\n\n Did you know? If you put the camera through the door...",
+        "Amphitheater Cove (N°9 by @Wren_5_Point_0)\n\n A small dolphin should be around the premises.",
+        "Critter's Research Outpost (N°10 by @Wren_5_Point_0)\n\n Lots of furballs around here!"
     ],
 	"fun_emotes": [
 		"01: \"Leave it to me!\"",
